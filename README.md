@@ -1,6 +1,6 @@
 ### Hey Ishan here 👋
 
-I am a MERN Stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a MERN Stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Android Development. :wink:
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
